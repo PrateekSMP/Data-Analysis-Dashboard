@@ -21,3 +21,14 @@ This project focuses on analyzing the sales performance of an e-commerce busines
 7.Designed a final interactive dashboard
 ## Dashboard
 https://github.com/PrateekSMP/Data-Analysis-Dashboard/blob/main/Screenshot%202026-04-16%20123200.png
+## Project Insights 
+Identified top-performing product categories
+Observed monthly trends and seasonal demand
+Compared regional sales contributions
+Evaluated profitability across categories
+## Final Conculsion
+An interactive Excel dashboard that provides a comprehensive view of sales performance, helping businesses make informed strategic decisions
+Add KPI cards (Total Sales, Profit Margin, Growth %)
+Integrate slicers for better filtering
+Automate data updates using Power Query
+Migrate dashboard to Power BI for advanced analytics
