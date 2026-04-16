@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on analyzing the sales performance of an e-commerce business using Microsoft Excel. The goal is to build an interactive dashboard that provides meaningful insights into sales, profit, and regional performance, enabling stakeholders to make data-driven decisions.
 ## Dataset Used 
--<a href="https://github.com/PrateekSMP/Data-Analysis-Dashboard/blob/main/E-Commerce%20Dashboard%20dataset.xlsx">Dataset</a>
+<a href="https://github.com/PrateekSMP/Data-Analysis-Dashboard/blob/main/E-Commerce%20Dashboard%20dataset.xlsx">Dataset</a>
 ## Objectives
 -Analyze sales data across different product categories
 -Track monthly sales and profit trends
