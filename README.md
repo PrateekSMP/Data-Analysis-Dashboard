@@ -10,7 +10,7 @@ This project focuses on analyzing the sales performance of an e-commerce busines
 -Build an interactive dashboard using Excel tools
 -Enable user-driven filtering using a combo box (Product Category selector)
 ## Dashboard Interaction 
--<a href="https://github.com/PrateekSMP/Data-Analysis-Dashboard/blob/main/Screenshot%202026-04-16%20123200.png">View Dashboard</a>
+<a href="https://github.com/PrateekSMP/Data-Analysis-Dashboard/blob/main/Screenshot%202026-04-16%20123200.png">View Dashboard</a>
 ## Steps Performed
 1.Data cleaning and preparation
 2.Created month-wise Sales & Profit table
